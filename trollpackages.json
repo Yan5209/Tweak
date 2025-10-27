@@ -12,6 +12,15 @@
       "author": "不知道",
     },
     {
+    "name": "白衣的灵动岛消息",
+      "version": "",
+      "description": "微信内消息上岛",
+      "dylib": "https://yan5209.github.io/Tweak/Dylib/白衣的灵动岛消息.dylib",
+      "section": "工具",
+      "size": "275KB",
+      "author": "白衣",
+    },
+    {
     "name": "TrollLoc",
       "version": "v0.2",
       "description": "巨魔小盒子",
