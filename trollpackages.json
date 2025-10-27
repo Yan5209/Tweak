@@ -12,6 +12,15 @@
       "author": "不知道",
     },
     {
+    "name": "Thor",
+      "version": "1.4.5",
+      "description": "抓包工具",
+      "dylib": "https://yan5209.github.io/Tweak/Dylib/Thor.ipa",
+      "section": "软件",
+      "size": "15MB",
+      "author": "",
+    },
+    {
     "name": "车工计算",
       "version": "5.9.8",
       "description": "车工计算器",
