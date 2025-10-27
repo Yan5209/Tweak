@@ -12,6 +12,15 @@
       "author": "不知道",
     },
     {
+    "name": "TrollLoc",
+      "version": "v0.2",
+      "description": "巨魔小盒子",
+      "dylib": "https://new667788.github.io/TrollFools/Dylib/TrollLoc.tipa",
+      "section": "工具",
+      "size": "3.6MB",
+      "author": "老六",
+    },
+    {
     "name": "一个大布丁",
       "version": "v1.0.7",
       "description": "对于某某圆角不需要输入激活码直接启用即可",
