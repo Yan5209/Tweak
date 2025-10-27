@@ -12,6 +12,15 @@
       "author": "不知道",
     },
     {
+    "name": "车工计算",
+      "version": "5.9.5",
+      "description": "车工计算器",
+      "dylib": "https://yan5209.github.io/Tweak/Dylib/HBuilder595.ipa",
+      "section": "软件",
+      "size": "11.9MB",
+      "author": "",
+    },
+    {
     "name": "Thor",
       "version": "1.4.5",
       "description": "抓包工具",
